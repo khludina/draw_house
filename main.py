@@ -8,10 +8,10 @@ def window():
     pass
 
 
-def window():
+def house():
     """
 
-    function is drawing window
+    function is drawing house
     :return:
     """
 
